@@ -1,1 +1,1 @@
-# Detecting-Informationally-Dense-Subsets
+# Paper "Detecting Informationally-Dense Subsets" with Appendix.
