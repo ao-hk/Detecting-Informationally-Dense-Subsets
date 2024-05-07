@@ -1,1 +1,1 @@
-# Paper "Detecting Informationally-Dense Subsets" with Appendix.
+# Paper "[Detecting Informationally-Dense Subsets](https://github.com/ao-hk/Detecting-Informationally-Dense-Subsets/blob/main/Detecting%20Informationally-Dense%20Subsets-itw_2024-long%20version.pdf)" with Appendix.
